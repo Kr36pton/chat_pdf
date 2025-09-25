@@ -3,8 +3,7 @@ PyPDF2==3.0.1
 python-dotenv==1.0.0
 streamlit==1.18.1
 faiss-cpu==1.12.0
-streamlit-extras
-openai==0.28
-tiktoken
-altair==4.2.0
-streamlit-lottie
+rich==14.1.0
+markdown-it-py==4.0.0
+pygments==2.19.2
+mdurl==0.1.2
